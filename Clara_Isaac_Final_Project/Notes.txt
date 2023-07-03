@@ -1,0 +1,3 @@
+Notes:
+1. The password only consist of numbers, the user can't enter other than numbers.
+2. Enter Button is ON/C button.
